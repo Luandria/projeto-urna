@@ -26,6 +26,8 @@
 		echo "Bolsonaro: ".$numBolsonaro."<br/>";
 		echo "Lula: ".$numLula."<br/><br/>";
 		echo "TOTAL: ".$numTotalVotos."<br/><br/>";
+		
+		echo"<a href='./'>Votar novamente<a/></br>"; 
 	}
 ?>
 <html lang="pt-BR">
