@@ -6,7 +6,7 @@
 <ul>
   <li>
     <h3>1. Importando tabelas do banco de dados:</h3>
-    <p> As tabelas do banco de dados estao no js. </p>
+    <p> As tabelas do banco de dados estão no arquivo js localizado em controller. </p>
   </li>
   <li>
     <h3>2. Configuração do banco de dados:</h3>
